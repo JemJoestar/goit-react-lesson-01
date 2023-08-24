@@ -3,18 +3,42 @@
       "id": "1",
       "name": "Volodimir Zelensky",
       "location": "Kyiv",
-      "duration": 2
+      "duration": 2, 
+      "color": "red"
     },
     {
       "id": "2",
       "name": "Zorg",
       "location": "Alfa-Centaura",
-      "duration": 12
+      "duration": 12, 
+      "color": "#330033"
     },
     {
       "id": "3",
       "name": "Bomj",
       "location": "Moscow",
-      "duration": 1
+      "duration": 1, 
+      "color": "#666633"
+    },
+    {
+      "id": "4",
+      "name": "ObiOne",
+      "location": "Far Far Galactic",
+      "duration": 0.5, 
+      "color": "silver"
+    },
+    {
+      "id": "5",
+      "name": "Joe Biden",
+      "location": "New york",
+      "duration": 5, 
+      "color": "tomato"
+    },
+    {
+      "id": "6",
+      "name": "Roshenko",
+      "location": "Poltava",
+      "duration": 1, 
+      "color": "chocolate"
     }
   ]
